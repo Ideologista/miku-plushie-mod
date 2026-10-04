@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_teto_plush_birdbrain": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mikuplushie:teto_plush_birdbrain"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "mikuplushie:teto_pickaxe_birdbrain"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_teto_plush_birdbrain",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "mikuplushie:teto_pickaxe_birdbrain"
+    ]
+  },
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "mikuplushie:block/miku_plush_hornet",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "mikuplushie:block/miku_plush_hornet"
+    },
+    "facing=south": {
+      "model": "mikuplushie:block/miku_plush_hornet",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mikuplushie:block/miku_plush_hornet",
+      "y": 270
+    }
+  }
+}

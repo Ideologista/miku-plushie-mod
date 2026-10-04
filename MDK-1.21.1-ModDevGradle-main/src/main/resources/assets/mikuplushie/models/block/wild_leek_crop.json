@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "mikuplushie:block/leek_crop_stage7"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mikuplushie:teto_plush"
+    },
+    {
+      "item": "minecraft:light_blue_wool"
+    }
+  ],
+  "result": {
+    "item": "mikuplushie:teto_plush_some_more_of_that_song"
+  }
+}

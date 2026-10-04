@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "mikuplushie:block/teto_plush_some_more_of_that_song",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "mikuplushie:block/teto_plush_some_more_of_that_song"
+    },
+    "facing=south": {
+      "model": "mikuplushie:block/teto_plush_some_more_of_that_song",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mikuplushie:block/teto_plush_some_more_of_that_song",
+      "y": 270
+    }
+  }
+}

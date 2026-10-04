@@ -1,0 +1,50 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "name": "mikuplushie:leek",
+              "conditions": [
+                {
+                  "condition": "minecraft:block_state_property",
+                  "block": "mikuplushie:leek_crop",
+                  "properties": {
+                    "age": "7"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "mikuplushie:leek_seeds"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "mikuplushie:leek_seeds"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:block_state_property",
+          "block": "mikuplushie:leek_crop",
+          "properties": {
+            "age": "7"
+          }
+        }
+      ]
+    }
+  ]
+}

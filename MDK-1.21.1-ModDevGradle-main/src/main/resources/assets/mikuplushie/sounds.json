@@ -1,0 +1,508 @@
+{
+  "miku_canudinho": {
+    "subtitle": "sound.mikuplushie.canudinho",
+    "sounds": [
+      "mikuplushie:miku/canudinho1",
+      "mikuplushie:miku/canudinho2",
+      "mikuplushie:miku/canudinho3",
+      "mikuplushie:miku/canudinho4",
+      "mikuplushie:miku/canudinho5"
+    ]
+  },
+  "miku_eat" : {
+    "subtitle": "sound.mikuplushie.eat",
+    "sounds": [
+      "mikuplushie:miku/miku-eat1",
+      "mikuplushie:miku/miku-eat2",
+      "mikuplushie:miku/miku-eat3",
+      "mikuplushie:miku/miku-eat4"
+    ]
+  },
+  "miku_oie" : {
+    "subtitle": "sound.mikuplushie.oie",
+    "sounds": [
+      "mikuplushie:miku/miku-oie1",
+      "mikuplushie:miku/miku-oie2",
+      "mikuplushie:miku/miku-oie3",
+      "mikuplushie:miku/miku-oie4",
+      "mikuplushie:miku/miku-oie5",
+      "mikuplushie:miku/miku-oie6",
+      "mikuplushie:miku/miku-oie7"
+    ]
+  },
+  "miku_dor" : {
+    "subtitle": "sound.mikuplushie.dor",
+    "sounds": [
+      "mikuplushie:miku/miku-dor1",
+      "mikuplushie:miku/miku-dor2",
+      "mikuplushie:miku/miku-dor3",
+      "mikuplushie:miku/miku-dor4",
+      "mikuplushie:miku/miku-dor5",
+      "mikuplushie:miku/miku-dor6",
+      "mikuplushie:miku/miku-dor7",
+      "mikuplushie:miku/miku-dor8",
+      "mikuplushie:miku/miku-dor9"
+    ]
+  },
+  "miku_bye" : {
+    "subtitle": "sound.mikuplushie.bye",
+    "sounds": [
+      "mikuplushie:miku/miku-bye1",
+      "mikuplushie:miku/miku-bye2",
+      "mikuplushie:miku/miku-bye3",
+      "mikuplushie:miku/miku-bye4",
+      "mikuplushie:miku/miku-bye5",
+      "mikuplushie:miku/miku-bye6",
+      "mikuplushie:miku/miku-bye7"
+    ]
+  },
+  "miku_equip" : {
+    "subtitle": "sound.mikuplushie.equip",
+    "sounds": [
+      "mikuplushie:miku/miku-equip1",
+      "mikuplushie:miku/miku-equip2",
+      "mikuplushie:miku/miku-equip3",
+      "mikuplushie:miku/miku-equip4"
+    ]
+  },
+
+
+
+
+  "aiko_oie" : {
+    "subtitle": "sound.aiko-plushie.oie",
+    "sounds": [
+      "mikuplushie:aiko/aiko-placing1",
+      "mikuplushie:aiko/aiko-placing2",
+      "mikuplushie:aiko/aiko-placing3",
+      "mikuplushie:aiko/aiko-placing4",
+      "mikuplushie:aiko/aiko-placing5"
+    ]
+  },
+  "aiko_dor" : {
+    "subtitle": "sound.aiko-plushie.dor",
+    "sounds": [
+      "mikuplushie:aiko/aiko-hurt1",
+      "mikuplushie:aiko/aiko-hurt2",
+      "mikuplushie:aiko/aiko-hurt3",
+      "mikuplushie:aiko/aiko-hurt4",
+      "mikuplushie:aiko/aiko-hurt5",
+      "mikuplushie:aiko/aiko-hurt6",
+      "mikuplushie:aiko/aiko-hurt7",
+      "mikuplushie:aiko/aiko-hurt8"
+    ]
+  },
+  "aiko_bye" : {
+    "subtitle": "sound.aiko-plushie.bye",
+    "sounds": [
+      "mikuplushie:aiko/aiko-break1",
+      "mikuplushie:aiko/aiko-break2",
+      "mikuplushie:aiko/aiko-break3",
+      "mikuplushie:aiko/aiko-break4",
+      "mikuplushie:aiko/aiko-break5",
+      "mikuplushie:aiko/aiko-break6",
+      "mikuplushie:aiko/aiko-break7"
+    ]
+  },
+  "aiko_equip" : {
+    "subtitle": "sound.aiko-plushie.equip",
+    "sounds": [
+      "mikuplushie:aiko/aiko-equip1",
+      "mikuplushie:aiko/aiko-equip2",
+      "mikuplushie:aiko/aiko-equip3",
+      "mikuplushie:aiko/aiko-equip4"
+    ]
+  },
+
+
+
+  "teto_oie" : {
+    "subtitle": "sound.teto-plushie.oie",
+    "sounds": [
+      "mikuplushie:teto/teto-placing1",
+      "mikuplushie:teto/teto-placing2",
+      "mikuplushie:teto/teto-placing3",
+      "mikuplushie:teto/teto-placing4",
+      "mikuplushie:teto/teto-placing5",
+      "mikuplushie:teto/teto-placing6"
+    ]
+  },
+  "teto_dor" : {
+    "subtitle": "sound.teto-plushie.dor",
+    "sounds": [
+      "mikuplushie:teto/teto-hurt1",
+      "mikuplushie:teto/teto-hurt2",
+      "mikuplushie:teto/teto-hurt3",
+      "mikuplushie:teto/teto-hurt4",
+      "mikuplushie:teto/teto-hurt5",
+      "mikuplushie:teto/teto-hurt6",
+      "mikuplushie:teto/teto-hurt7",
+      "mikuplushie:teto/teto-hurt8",
+      "mikuplushie:teto/teto-hurt9"
+    ]
+  },
+  "teto_bye" : {
+    "subtitle": "sound.teto-plushie.bye",
+    "sounds": [
+      "mikuplushie:teto/teto-break1",
+      "mikuplushie:teto/teto-break2",
+      "mikuplushie:teto/teto-break3",
+      "mikuplushie:teto/teto-break4",
+      "mikuplushie:teto/teto-break5",
+      "mikuplushie:teto/teto-break6",
+      "mikuplushie:teto/teto-break7"
+    ]
+  },
+  "teto_equip" : {
+    "subtitle": "sound.teto-plushie.equip",
+    "sounds": [
+      "mikuplushie:teto/teto-equip1",
+      "mikuplushie:teto/teto-equip2",
+      "mikuplushie:teto/teto-equip3",
+      "mikuplushie:teto/teto-equip4"
+    ]
+  },
+
+
+
+  "akita_neru_oie" : {
+    "subtitle": "sound.neru-plushie.oie",
+    "sounds": [
+      "mikuplushie:neru/neru-placing1",
+      "mikuplushie:neru/neru-placing2",
+      "mikuplushie:neru/neru-placing3",
+      "mikuplushie:neru/neru-placing4",
+      "mikuplushie:neru/neru-placing5",
+      "mikuplushie:neru/neru-placing6"
+    ]
+  },
+  "akita_neru_dor" : {
+    "subtitle": "sound.neru-plushie.dor",
+    "sounds": [
+      "mikuplushie:neru/neru-hurt1",
+      "mikuplushie:neru/neru-hurt2",
+      "mikuplushie:neru/neru-hurt3",
+      "mikuplushie:neru/neru-hurt4",
+      "mikuplushie:neru/neru-hurt5",
+      "mikuplushie:neru/neru-hurt6",
+      "mikuplushie:neru/neru-hurt7",
+      "mikuplushie:neru/neru-hurt8",
+      "mikuplushie:neru/neru-hurt9"
+    ]
+  },
+  "akita_neru_bye" : {
+    "subtitle": "sound.neru-plushie.bye",
+    "sounds": [
+      "mikuplushie:neru/neru-break1",
+      "mikuplushie:neru/neru-break2",
+      "mikuplushie:neru/neru-break3",
+      "mikuplushie:neru/neru-break4",
+      "mikuplushie:neru/neru-break5",
+      "mikuplushie:neru/neru-break6",
+      "mikuplushie:neru/neru-break7"
+    ]
+  },
+  "akita_neru_equip" : {
+    "subtitle": "sound.neru-plushie.equip",
+    "sounds": [
+      "mikuplushie:neru/neru-equip1",
+      "mikuplushie:neru/neru-equip2",
+      "mikuplushie:neru/neru-equip3",
+      "mikuplushie:neru/neru-equip4"
+    ]
+  },
+
+
+
+  "rin_oie" : {
+    "subtitle": "sound.rin-plushie.oie",
+    "sounds": [
+      "mikuplushie:rin/rin-placing1",
+      "mikuplushie:rin/rin-placing2",
+      "mikuplushie:rin/rin-placing3",
+      "mikuplushie:rin/rin-placing4",
+      "mikuplushie:rin/rin-placing5",
+      "mikuplushie:rin/rin-placing6"
+    ]
+  },
+  "rin_dor" : {
+    "subtitle": "sound.rin-plushie.dor",
+    "sounds": [
+      "mikuplushie:rin/rin-hurt1",
+      "mikuplushie:rin/rin-hurt2",
+      "mikuplushie:rin/rin-hurt3",
+      "mikuplushie:rin/rin-hurt4",
+      "mikuplushie:rin/rin-hurt5",
+      "mikuplushie:rin/rin-hurt6",
+      "mikuplushie:rin/rin-hurt7",
+      "mikuplushie:rin/rin-hurt8",
+      "mikuplushie:rin/rin-hurt9"
+    ]
+  },
+  "rin_bye" : {
+    "subtitle": "sound.rin-plushie.bye",
+    "sounds": [
+      "mikuplushie:rin/rin-break1",
+      "mikuplushie:rin/rin-break2",
+      "mikuplushie:rin/rin-break3",
+      "mikuplushie:rin/rin-break4",
+      "mikuplushie:rin/rin-break5",
+      "mikuplushie:rin/rin-break6",
+      "mikuplushie:rin/rin-break7"
+    ]
+  },
+  "rin_equip" : {
+    "subtitle": "sound.rin-plushie.equip",
+    "sounds": [
+      "mikuplushie:rin/rin-equip1",
+      "mikuplushie:rin/rin-equip2",
+      "mikuplushie:rin/rin-equip3",
+      "mikuplushie:rin/rin-equip4"
+    ]
+  },
+
+
+
+  "len_oie" : {
+    "subtitle": "sound.len-plushie.oie",
+    "sounds": [
+      "mikuplushie:len/len-placing1",
+      "mikuplushie:len/len-placing2",
+      "mikuplushie:len/len-placing3",
+      "mikuplushie:len/len-placing4",
+      "mikuplushie:len/len-placing5",
+      "mikuplushie:len/len-placing6"
+    ]
+  },
+  "len_dor" : {
+    "subtitle": "sound.len-plushie.dor",
+    "sounds": [
+      "mikuplushie:len/len-hurt1",
+      "mikuplushie:len/len-hurt2",
+      "mikuplushie:len/len-hurt3",
+      "mikuplushie:len/len-hurt4",
+      "mikuplushie:len/len-hurt5",
+      "mikuplushie:len/len-hurt6",
+      "mikuplushie:len/len-hurt7",
+      "mikuplushie:len/len-hurt8",
+      "mikuplushie:len/len-hurt9"
+    ]
+  },
+  "len_bye" : {
+    "subtitle": "sound.len-plushie.bye",
+    "sounds": [
+      "mikuplushie:len/len-break1",
+      "mikuplushie:len/len-break2",
+      "mikuplushie:len/len-break3",
+      "mikuplushie:len/len-break4",
+      "mikuplushie:len/len-break5",
+      "mikuplushie:len/len-break6",
+      "mikuplushie:len/len-break7"
+    ]
+  },
+  "len_equip" : {
+    "subtitle": "sound.len-plushie.equip",
+    "sounds": [
+      "mikuplushie:len/len-equip1",
+      "mikuplushie:len/len-equip2",
+      "mikuplushie:len/len-equip3",
+      "mikuplushie:len/len-equip4"
+    ]
+  },
+
+
+
+  "luka_oie" : {
+    "subtitle": "sound.luka-plushie.oie",
+    "sounds": [
+      "mikuplushie:luka/luka-oie1",
+      "mikuplushie:luka/luka-oie2",
+      "mikuplushie:luka/luka-oie3",
+      "mikuplushie:luka/luka-oie4",
+      "mikuplushie:luka/luka-oie5",
+      "mikuplushie:luka/luka-oie6"
+    ]
+  },
+  "luka_dor" : {
+    "subtitle": "sound.luka-plushie.dor",
+    "sounds": [
+      "mikuplushie:luka/luka-dor1",
+      "mikuplushie:luka/luka-dor2",
+      "mikuplushie:luka/luka-dor3",
+      "mikuplushie:luka/luka-dor4",
+      "mikuplushie:luka/luka-dor5",
+      "mikuplushie:luka/luka-dor6",
+      "mikuplushie:luka/luka-dor7",
+      "mikuplushie:luka/luka-dor8",
+      "mikuplushie:luka/luka-dor9"
+    ]
+  },
+  "luka_bye" : {
+    "subtitle": "sound.luka-plushie.bye",
+    "sounds": [
+      "mikuplushie:luka/luka-bye1",
+      "mikuplushie:luka/luka-bye2",
+      "mikuplushie:luka/luka-bye3",
+      "mikuplushie:luka/luka-bye4",
+      "mikuplushie:luka/luka-bye5",
+      "mikuplushie:luka/luka-bye6",
+      "mikuplushie:luka/luka-bye7"
+    ]
+  },
+  "luka_equip" : {
+    "subtitle": "sound.luka-plushie.equip",
+    "sounds": [
+      "mikuplushie:luka/luka-equip1",
+      "mikuplushie:luka/luka-equip2",
+      "mikuplushie:luka/luka-equip3",
+      "mikuplushie:luka/luka-equip4"
+    ]
+  },
+
+
+
+  "meiko_oie" : {
+    "subtitle": "sound.meiko-plushie.oie",
+    "sounds": [
+      "mikuplushie:meiko/meiko-oie1",
+      "mikuplushie:meiko/meiko-oie2",
+      "mikuplushie:meiko/meiko-oie3",
+      "mikuplushie:meiko/meiko-oie4",
+      "mikuplushie:meiko/meiko-oie5",
+      "mikuplushie:meiko/meiko-oie6"
+    ]
+  },
+  "meiko_dor" : {
+    "subtitle": "sound.meiko-plushie.dor",
+    "sounds": [
+      "mikuplushie:meiko/meiko-dor1",
+      "mikuplushie:meiko/meiko-dor2",
+      "mikuplushie:meiko/meiko-dor3",
+      "mikuplushie:meiko/meiko-dor4",
+      "mikuplushie:meiko/meiko-dor5",
+      "mikuplushie:meiko/meiko-dor6",
+      "mikuplushie:meiko/meiko-dor7",
+      "mikuplushie:meiko/meiko-dor8",
+      "mikuplushie:meiko/meiko-dor9"
+    ]
+  },
+  "meiko_bye" : {
+    "subtitle": "sound.meiko-plushie.bye",
+    "sounds": [
+      "mikuplushie:meiko/meiko-bye1",
+      "mikuplushie:meiko/meiko-bye2",
+      "mikuplushie:meiko/meiko-bye3",
+      "mikuplushie:meiko/meiko-bye4",
+      "mikuplushie:meiko/meiko-bye5",
+      "mikuplushie:meiko/meiko-bye6",
+      "mikuplushie:meiko/meiko-bye7"
+    ]
+  },
+  "meiko_equip" : {
+    "subtitle": "sound.meiko-plushie.equip",
+    "sounds": [
+      "mikuplushie:meiko/meiko-equip1",
+      "mikuplushie:meiko/meiko-equip2",
+      "mikuplushie:meiko/meiko-equip3",
+      "mikuplushie:meiko/meiko-equip4"
+    ]
+  },
+
+
+
+  "gumi_oie" : {
+    "subtitle": "sound.gumi-plushie.oie",
+    "sounds": [
+      "mikuplushie:gumi/gumi-oie1",
+      "mikuplushie:gumi/gumi-oie2",
+      "mikuplushie:gumi/gumi-oie3",
+      "mikuplushie:gumi/gumi-oie4",
+      "mikuplushie:gumi/gumi-oie5",
+      "mikuplushie:gumi/gumi-oie6"
+    ]
+  },
+  "gumi_dor" : {
+    "subtitle": "sound.gumi-plushie.dor",
+    "sounds": [
+      "mikuplushie:gumi/gumi-dor1",
+      "mikuplushie:gumi/gumi-dor2",
+      "mikuplushie:gumi/gumi-dor3",
+      "mikuplushie:gumi/gumi-dor4",
+      "mikuplushie:gumi/gumi-dor5",
+      "mikuplushie:gumi/gumi-dor6",
+      "mikuplushie:gumi/gumi-dor7",
+      "mikuplushie:gumi/gumi-dor8",
+      "mikuplushie:gumi/gumi-dor9"
+    ]
+  },
+  "gumi_bye" : {
+    "subtitle": "sound.gumi-plushie.bye",
+    "sounds": [
+      "mikuplushie:gumi/gumi-bye1",
+      "mikuplushie:gumi/gumi-bye2",
+      "mikuplushie:gumi/gumi-bye3",
+      "mikuplushie:gumi/gumi-bye4",
+      "mikuplushie:gumi/gumi-bye5",
+      "mikuplushie:gumi/gumi-bye6",
+      "mikuplushie:gumi/gumi-bye7"
+    ]
+  },
+  "gumi_equip" : {
+    "subtitle": "sound.gumi-plushie.equip",
+    "sounds": [
+      "mikuplushie:gumi/gumi-equip1",
+      "mikuplushie:gumi/gumi-equip2",
+      "mikuplushie:gumi/gumi-equip3",
+      "mikuplushie:gumi/gumi-equip4"
+    ]
+  },
+
+
+
+  "kaito_oie" : {
+    "subtitle": "sound.kaito-plushie.oie",
+    "sounds": [
+      "mikuplushie:kaito/kaito-oie1",
+      "mikuplushie:kaito/kaito-oie2",
+      "mikuplushie:kaito/kaito-oie3",
+      "mikuplushie:kaito/kaito-oie4",
+      "mikuplushie:kaito/kaito-oie5",
+      "mikuplushie:kaito/kaito-oie6"
+    ]
+  },
+  "kaito_dor" : {
+    "subtitle": "sound.kaito-plushie.dor",
+    "sounds": [
+      "mikuplushie:kaito/kaito-dor1",
+      "mikuplushie:kaito/kaito-dor2",
+      "mikuplushie:kaito/kaito-dor3",
+      "mikuplushie:kaito/kaito-dor4",
+      "mikuplushie:kaito/kaito-dor5",
+      "mikuplushie:kaito/kaito-dor6",
+      "mikuplushie:kaito/kaito-dor7",
+      "mikuplushie:kaito/kaito-dor8",
+      "mikuplushie:kaito/kaito-dor9"
+    ]
+  },
+  "kaito_bye" : {
+    "subtitle": "sound.kaito-plushie.bye",
+    "sounds": [
+      "mikuplushie:kaito/kaito-bye1",
+      "mikuplushie:kaito/kaito-bye2",
+      "mikuplushie:kaito/kaito-bye3",
+      "mikuplushie:kaito/kaito-bye4",
+      "mikuplushie:kaito/kaito-bye5",
+      "mikuplushie:kaito/kaito-bye6",
+      "mikuplushie:kaito/kaito-bye7"
+    ]
+  },
+  "kaito_equip" : {
+    "subtitle": "sound.kaito-plushie.equip",
+    "sounds": [
+      "mikuplushie:kaito/kaito-equip1",
+      "mikuplushie:kaito/kaito-equip2",
+      "mikuplushie:kaito/kaito-equip3",
+      "mikuplushie:kaito/kaito-equip4"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#mikuplushie:miku_plush",
+      "required": false
+    },
+    {
+      "id": "#mikuplushie:teto_plush",
+      "required": false
+    },
+    {
+      "id": "#mikuplushie:aiko_plush",
+      "required": false
+    },
+    {
+      "id": "#mikuplushie:akita_neru_plush",
+      "required": false
+    },
+    {
+      "id": "#mikuplushie:rin_plush",
+      "required": false
+    },
+    {
+      "id": "#mikuplushie:len_plush",
+      "required": false
+    },
+    {
+      "id": "#mikuplushie:konoha_plush",
+      "required": false
+    },
+    {
+      "id": "#mikuplushie:luka_plush",
+      "required": false
+    },
+    {
+      "id": "#mikuplushie:meiko_plush",
+      "required": false
+    },
+    {
+      "id": "#mikuplushie:gumi_plush",
+      "required": false
+    },
+    {
+      "id": "#mikuplushie:kaito_plush",
+      "required": false
+    }
+  ]
+}

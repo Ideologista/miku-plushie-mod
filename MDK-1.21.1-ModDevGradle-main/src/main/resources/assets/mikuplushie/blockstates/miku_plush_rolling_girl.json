@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "mikuplushie:block/miku_plush_rolling_girl",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "mikuplushie:block/miku_plush_rolling_girl"
+    },
+    "facing=south": {
+      "model": "mikuplushie:block/miku_plush_rolling_girl",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mikuplushie:block/miku_plush_rolling_girl",
+      "y": 270
+    }
+  }
+}
